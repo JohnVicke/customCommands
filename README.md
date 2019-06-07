@@ -1,7 +1,14 @@
 # Custom bash scripts for automation
 ## New Project
-source ~/.custom_commands.sh \n
-new_project + argv
+
+### How to run
+
+- Add github username and password to new_project.py
+- Create new directory on Desktop called "projects"
+- source ~/.custom_commands.sh
+- new_project + "NEW_PROJECT_FOLDER_NAME"
+
+### Result
 
   * creates a new directory in Desktop/projects/
   * initializes git and adds origin
