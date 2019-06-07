@@ -1,6 +1,6 @@
 # Custom bash scripts for automation
-
-source ~/.custom_commands.sh
+## New Project
+source ~/.custom_commands.sh \n
 new_project + argv
 
   * creates a new directory in Desktop/projects/
