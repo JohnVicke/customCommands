@@ -22,5 +22,4 @@ if __name__ == '__main__':
     print('*', sys.argv[1]) if repo.name == sys.argv[1] else print(repo.name)
 
   print("-----------------------------------")
-cprint(figlet_format(':)', font='starwars'),
-       'yellow', 'on_red', attrs=['bold'])    
+  cprint(figlet_format(':)', font='starwars'), 'yellow', 'on_red', attrs=['bold'])    
