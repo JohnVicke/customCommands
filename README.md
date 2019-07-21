@@ -6,7 +6,7 @@
 - Add github username and password to new_project.py
 - Create new directory on Desktop called "projects"
 - source ~/.custom_commands.sh
-- new_project + "NEW_PROJECT_FOLDER_NAME"
+- new_project + {project name}
 
 ### Result
 
